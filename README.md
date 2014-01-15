@@ -7,18 +7,18 @@ Look back 2013
 
 **new stack**
 
- - Applied all the lessons learned from prototyping into architecting 
- - List item
+ - Applied all the lessons learned from prototyping into architecting the new stack
  - Automated developer setup
  - Overhauled and modernized developer workflow
  - Collaborated with Engineering to retool the deployment process to meet the needs of a modern web app
- - All these contribute to a countless amount of time saved for developers which will help put features out quicker which makes the company more money
+ - All these efforts contribute to a countless amount of time saved for developers, makes them more productive, and contributes to our recruiting efforts
 
 **fly**
 
- - Worked with the fly team both as a technology consultant and later as an app developer using the tools from both the new stack and the fly app as an end user
+ - Worked with the fly team as a technology consultant helping to choose and tweak the tools used to forge the app such as Grunt and almond
+ - Worked on the fly team as an app developer giving me the chance to eat my own cooking
 
-**hiring help**
+**recruiting**
 
  - Interviewed a number of developers which were hired and started contributing meaningfully to our products
 
