@@ -28,24 +28,14 @@ Look back 2013
 
  - Since we have open space and the flexibility to go to the NYC office, this has given me the ability to collaborate with the mobile team, in order for us to show off Google's new Chrome App technology which sparked a discussion about how this new platform could be used to benefit Priceline.com such has making dashboard available while offline
 
-        if (chrome.pushMessaging) {
-        // Listens for push messages in the window
-        chrome.pushMessaging.onMessage.addListener(function(message) {
-                var payload = JSON.parse(message.payload);
-                self.addNewStatus({activity:payload.activity});
-        });
-    
-        // get last known activity for this user
-        chrome.storage.sync.get('activity', function(items) {
-                if (items.activity) {
-                        self.addNewStatus({activity:items.activity});
-                }
-        });
-    }
+![enter image description here][1]
 
-[GeekTo5K GitHub repo][1]
+[https://github.com/jsolis/GeekTo5K][2]
 
-What were my competencies for 2012-2013?
+**The solutions to all of Customer Conversion's challenges**
 
+ - Invent scrollable paper
+ - Enable the developers even more
 
-  [1]: https://github.com/jsolis/GeekTo5K
+  [1]: https://lh3.googleusercontent.com/Xqtl-EkxLtsAxyPvTs0Y5_DcuB3wjrKg5Y034DS2EOp4=s0
+  [2]: https://github.com/jsolis/GeekTo5K
