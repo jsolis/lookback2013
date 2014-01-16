@@ -3,7 +3,7 @@ Look back 2013
 
 **hotel prototype**
 
- - Some would say p2 was a failure, but a lot of great learning came out it that is being put to good use both on hotel p1 and the new stack.
+ - Some would say p2 was a failure, but as long as you learn from your failures, they are not really failures. The lessons learned from this project have paid off in both the p1 and new stack projects.
  - "It's fine to celebrate success but it is more important to heed the lessons of failure"
 
 **new stack**
